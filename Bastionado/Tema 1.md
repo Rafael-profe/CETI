@@ -16,5 +16,5 @@
 		- git push -u origin main
 		- Os pedirá el usuario y la contraseña. 
 			- El usuario es el correo
-			- La contraseña la generáis en settings --> developer settings --> Fine-grained tokens
+			- La contraseña la generáis en settings --> developer settings --> Tokens classic
 	- 6º Que todo esté en el repositorio de Github. 
