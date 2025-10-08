@@ -14,3 +14,7 @@
 		- git branch -M main
 		- git remote add origin https://github.com/Rafael-profe/CETI.git
 		- git push -u origin main
+		- Os pedirá el usuario y la contraseña. 
+			- El usuario es el correo
+			- La contraseña la generáis en settings --> developer settings --> Fine-grained tokens
+	- 6º Que todo esté en el repositorio de Github. 
