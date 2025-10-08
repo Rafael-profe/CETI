@@ -1,0 +1,16 @@
+- Cómo tomar apuntes como un PRO 
+	- 1º Vete a github y crea una cuenta
+	- 2º Crea un repositorio en github
+		- El repo puede ser público
+		- El nombre "CETI"
+		- Lo creas vacío (sin readme, ni otras cosas)
+	- 3º Descargas obsidian
+		- Creas un Vault
+	- 4º Instalad Git en Windows
+	- 5º Buscas la carpeta donde esté el Vault
+		- git init
+		- git add README.md
+		- git commit -m "first commit"
+		- git branch -M main
+		- git remote add origin https://github.com/Rafael-profe/CETI.git
+		- git push -u origin main
